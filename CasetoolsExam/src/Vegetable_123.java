@@ -8,9 +8,9 @@ public class Vegetable_123 {
 	{
 		this.Color=Color;
 	}
-	  void name(String Color)
+	  void set_name(String name)
 	{
-		this.Color=Color;	
+		this.name=name;	
 	}
 
 	public static void main(String[] args) {
